@@ -41,7 +41,7 @@ Window Ready Event
 
 * `$(function () {});`
   * also `$(document).ready(function(){});`
-
+Z
 Selectors
 
 * `$(".some-class") // select by classname`
